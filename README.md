@@ -1,6 +1,6 @@
 # KLearn
 
-Code accompanying the paper: `KLearn: Background Knowledge Inference from Summarization Data` published at *Findings of EMNLP 2021*
+Code accompanying the paper: `KLearn: Background Knowledge Inference from Summarization Data` published at *Findings of EMNLP 2020*
 
 ### Abstract
 The goal of text summarization is to compress documents to the relevant information while excluding background information already known to the receiver.
